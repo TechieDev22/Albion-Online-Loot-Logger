@@ -21,6 +21,7 @@ Albion Online Loot Logger is a simple tool that allows you to keep track of the 
 ## Password
 
 The file is password protected
+
 Password:Logger
 
 ## License
